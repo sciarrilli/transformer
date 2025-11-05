@@ -1,6 +1,6 @@
 
 # Transformer
-My own implementation Transformer model (Attention is All You Need - Google Brain, 2017)
+Transformer model from scratch with pytorch by @hyunwoongko (Attention is All You Need - Google Brain, 2017)
 <br><br>
 ![model](image/model.png)
 <br><br>
